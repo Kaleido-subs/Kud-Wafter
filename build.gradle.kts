@@ -11,11 +11,12 @@ plugins {
 
 subs {
     readProperties("sub.properties")
-    episodes(getList("episodes"))
 
     merge {
         from(get("dialogue"))
-        from(get("ED"))
+
+        from(get("ED1"))
+        from(get("ED2"))
 
         from(get("IS_1"))
         from(get("IS_2"))
