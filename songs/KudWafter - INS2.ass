@@ -20,7 +20,6 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.4,1.5,2,200,200,56,1
 Style: INS2,Last to sleep,58,&H00FFFFFF,&H000000FF,&H00877443,&H14877443,-1,0,0,0,110,100,0,0,1,0,0,8,30,30,40,1
 
 [Events]
