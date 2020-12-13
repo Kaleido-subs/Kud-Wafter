@@ -13,6 +13,10 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: KudWafterBD_01 (Premux).mkv
+Video File: KudWafterBD_01 (Premux).mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -20,7 +24,6 @@ Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H0F000000,&H00000000,0,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:43.95,0:03:45.41,Sign,,0,0,0,,{\pos(1006,448)}Better luck next time!
 Dialogue: 4,0:13:24.28,0:13:25.99,Sign,,0,0,0,,{\fs70\c&HF0EFEF&\fnConferenceD\b0\blur0.55\pos(240,816)}A Tad
 Dialogue: 4,0:13:24.28,0:13:25.99,Sign,,0,0,0,,{\fs70\c&HF0EFEF&\fnConferenceD\b0\blur0.55\pos(240,886)}Mischievous
 Dialogue: 4,0:13:24.28,0:13:25.99,Sign,,0,0,0,,{\fs70\pos(240,956)\c&HF0EFEF&\fnConferenceD\b0\blur0.55}Rocket King
@@ -3134,5 +3137,3 @@ Dialogue: 2,0:17:21.81,0:17:23.77,Sign,,0,0,0,,{\clip(425,959,1494,960)\pos(960,
 Dialogue: 2,0:17:21.81,0:17:23.77,Sign,,0,0,0,,{\clip(425,960,1494,961)\pos(960,794)\an7\fad(150,0)\blur1\bord0\shad0\fscx100\fscy100\p1\c&HBC9E3E&}m -457 -149 b -495 -149 -529 -117 -529 -78 -529 -78 -529 90 -529 90 -529 127 -497 161 -460 161 l 460 161 b 498 161 529 126 529 89 529 89 529 -77 529 -77 529 -115 497 -149 458 -149
 Dialogue: 1,0:17:21.81,0:17:23.77,Sign,,0,0,0,,{\an7\fad(150,0)\blur1\bord0\shad0\fscx100\fscy100\bord3\xshad0.01\1a&HFE&\3c&H000000&\3a&HFE&\4c&HD3C585&\p1\pos(960,794)}m -457 -149 b -495 -149 -529 -117 -529 -78 -529 -78 -529 90 -529 90 -529 127 -497 161 -460 161 l 460 161 b 498 161 529 126 529 89 529 89 529 -77 529 -77 529 -115 497 -149 458 -149
 Dialogue: 0,0:17:21.81,0:17:23.77,Sign,,0,0,0,,{\an7\fad(150,0)\blur1\bord0\yshad10\fscx100\fscy100\4a&H78&\p1\pos(960,794)\iclip(m 503 645 b 464.6 645.1 431.1 677.3 431 716 431 716 431 884 431 884 431.1 920.7 462.6 954.9 500 954.9 l 1420 955 b 1458 954.9 1488.9 920.2 1489 883 1489 883 1489 717 1489 717 1488.9 678.9 1456.5 645.1 1418 645)}m -457 -149 b -495 -149 -529 -117 -529 -78 -529 -78 -529 90 -529 90 -529 127 -497 161 -460 161 l 460 161 b 498 161 529 126 529 89 529 89 529 -77 529 -77 529 -115 497 -149 458 -149
-Dialogue: 0,0:21:13.59,0:21:16.13,Sign,,0,0,0,,{\pos(1082,724)}Astronaut Dr. Strugatskaya, Live from the ISS
-Dialogue: 0,0:30:45.49,0:30:59.55,Sign,,0,0,0,,{\pos(1300,500)}Closed during the summer

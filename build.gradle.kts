@@ -22,7 +22,8 @@ subs {
         from(get("INS1"))
         from(get("INS2"))
 
-        from(get("TS"))
+        from(get("TS1"))
+        from(get("TS2"))
 
         out(get("mergedname"))
     }
