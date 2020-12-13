@@ -28,10 +28,10 @@ subs {
         out(get("mergedname"))
     }
 
-    /* chapters {
+    chapters {
         from(merge.item())
         chapterMarker("chapter")
-    } */
+    }
 
 
     mux {
