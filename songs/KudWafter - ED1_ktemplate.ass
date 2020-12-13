@@ -15,10 +15,29 @@ Last Style Storage: Default
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,LTFinnegan Medium,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.4,1.5,2,200,200,56,1
 Style: ED1,Chuu2-next,48,&H00FFFFFF,&H000000FF,&H00EBCE87,&H00EBCE87,-1,0,0,0,100,100,0.5,0,1,2.4,0,2,24,24,34,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 3,0:42:14.89,0:42:14.89,ED1,,0,0,0,template line actor eng,
+Comment: 2,0:42:14.89,0:42:14.89,ED1,,0,0,0,template line actor eng_intro,
+Comment: 1,0:42:14.89,0:42:14.89,ED1,,0,0,0,template line actor eng,
+Comment: 3,0:42:14.89,0:42:14.89,ED1,,0,0,0,template line actor rom,
+Comment: 2,0:42:14.89,0:42:14.89,ED1,,0,0,0,template line actor rom_intro,
+Comment: 1,0:42:14.89,0:42:14.89,ED1,,0,0,0,template line actor rom,
+Comment: 0,0:42:14.89,0:42:14.89,ED1,,0,0,0,,
+Comment: 0,0:42:14.89,0:42:14.89,ED1,,0,0,0,mixin line actor eng_intro,{\an9\pos(1886,34)\fs40}
+Comment: 0,0:42:14.89,0:42:14.89,ED1,,0,0,0,mixin line actor rom_intro,{\an9\pos(1886,80)\fs34}
+Comment: 0,0:45:23.70,0:45:23.70,ED1,,0,0,0,mixin line actor eng_main,{!ln.tag.pos(5,5)!}
+Comment: 0,0:45:23.70,0:45:23.70,ED1,,0,0,0,mixin line actor rom_main,{!ln.tag.pos(5,5,0,-972)!}
+Comment: 0,0:42:14.89,0:42:14.89,ED1,,0,0,0,,
+Comment: 0,0:42:14.89,0:42:14.89,ED1,,0,0,0,mixin line layer 3,{\1a&HFE&\3a&HFE&\4a&H00&\4c&HFFFFFF&\bord0.01\xshad0.01\blur0.5}
+Comment: 0,0:42:14.89,0:42:14.89,ED1,,0,0,0,mixin line layer 2 actor eng_intro actor rom_intro,{\1a&HFE&\3a&HFE&\blur1.4\bord0.8\xshad0.01\4c&HBE8B17&}
+Comment: 0,0:42:14.89,0:42:14.89,ED1,,0,0,0,mixin line layer 1 actor eng_intro actor rom_intro,!retime('line',-50,50)!{\1a&HFE&\3a&HFE&\4a&H3C&\blur4\xshad0.01}
+Comment: 0,0:42:14.89,0:42:14.89,ED1,,0,0,0,mixin line layer 1 actor eng_main actor rom_main,!retime('line',-50,50)!{\1a&HFE&\3a&HFE&\4a&H28&\blur8\bord2.4\xshad0.01}
+Comment: 0,0:42:14.89,0:42:14.89,ED1,,0,0,0,mixin line,{\fad(300,350)}
+Comment: 0,0:42:14.89,0:42:14.89,ED1,,0,0,0,,
 Comment: 0,0:45:23.70,0:45:23.70,Default,chapter,0,0,0,sync,{ED}
 Comment: 0,0:42:14.89,0:42:24.77,ED1,eng eng_intro,0,0,0,kara,Even now we are still chasing it
 Comment: 0,0:42:40.16,0:42:54.01,ED1,eng eng_intro,0,0,0,kara,We stretch our small, dream bearing wings in the summer sky
@@ -74,8 +93,8 @@ Comment: 0,0:46:31.31,0:46:37.44,ED1,rom rom_main,0,0,0,kara,mirai wa manazashi 
 Comment: 0,0:46:37.44,0:46:44.78,ED1,rom rom_main,0,0,0,kara,chiisana hoshikuzu sora wo mitsumeteru
 Comment: 0,0:46:45.20,0:46:51.50,ED1,rom rom_main,0,0,0,kara,mirai wa te no naka de habatakihajimeru
 Comment: 0,0:46:51.96,0:47:00.13,ED1,rom rom_main,0,0,0,kara,kimi no tsubasa ashita e to todoke
-Dialogue: 0,0:45:23.70,0:50:43.44,ED1,,0,0,0,,{\c&H000001&\an7\bord0\blur8\fscx100\pos(24,34)\fscy100\p1}m -120 76 l 1920 76 1920 -200 -120 -200
-Dialogue: 0,0:45:23.70,0:50:43.44,ED1,,0,0,0,,{\c&H000001&\an7\bord0\blur8\fscx100\pos(0,0)\fscy100\p1}m -120 966 l 1920 966 1920 1280 -120 1280
+Dialogue: 0,0:45:23.70,0:50:43.44,Default,,0,0,0,,{\c&H000001&\an7\bord0\blur8\fscx100\pos(24,34)\fscy100\p1}m -120 76 l 1920 76 1920 -200 -120 -200
+Dialogue: 0,0:45:23.70,0:50:43.44,Default,,0,0,0,,{\c&H000001&\an7\bord0\blur8\fscx100\pos(0,0)\fscy100\p1}m -120 966 l 1920 966 1920 1280 -120 1280
 Dialogue: 3,0:42:14.89,0:42:24.77,ED1,eng eng_intro,0,0,0,fx,{\an9\pos(1886,34)\fs40\1a&HFE&\3a&HFE&\4a&H00&\4c&HFFFFFF&\bord0.01\xshad0.01\blur0.5\fad(300,350)}Even now we are still chasing it
 Dialogue: 2,0:42:14.89,0:42:24.77,ED1,eng eng_intro,0,0,0,fx,{\an9\pos(1886,34)\fs40\1a&HFE&\3a&HFE&\blur1.4\bord0.8\xshad0.01\4c&HBE8B17&\fad(300,350)}Even now we are still chasing it
 Dialogue: 1,0:42:14.84,0:42:24.82,ED1,eng eng_intro,0,0,0,fx,{\an9\pos(1886,34)\fs40\1a&HFE&\3a&HFE&\4a&H3C&\blur4\xshad0.01\fad(300,350)}Even now we are still chasing it
