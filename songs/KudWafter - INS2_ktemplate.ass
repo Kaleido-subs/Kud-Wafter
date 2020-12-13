@@ -25,6 +25,20 @@ Style: INS2,Last to sleep,58,&H00FFFFFF,&H000000FF,&H00877443,&H14877443,-1,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 2,0:27:46.35,0:27:46.35,INS2,,0,0,0,template line actor eng,
+Comment: 1,0:27:46.35,0:27:46.35,INS2,,0,0,0,template line actor eng,
+Comment: 0,0:27:46.35,0:27:46.35,INS2,,0,0,0,template line actor eng,
+Comment: 2,0:27:46.35,0:27:46.35,INS2,,0,0,0,template line actor rom,
+Comment: 1,0:27:46.35,0:27:46.35,INS2,,0,0,0,template line actor rom,
+Comment: 0,0:27:46.35,0:27:46.35,INS2,,0,0,0,template line actor rom,
+Comment: 0,0:27:46.35,0:27:46.35,INS2,,0,0,0,,
+Comment: 0,0:27:46.35,0:27:46.35,INS2,,0,0,0,mixin line actor eng,{!ln.tag.pos(2,2)!}
+Comment: 0,0:27:46.35,0:27:46.35,INS2,,0,0,0,mixin line actor rom,{!ln.tag.pos(2,2,0,44)!\fs42}
+Comment: 0,0:27:46.35,0:27:46.35,INS2,,0,0,0,mixin line layer 2,{\1a&HFE&\3a&HFE&\4a&H00&\4c&HFFFBFE&\bord0.01\xshad0.01\blur0.65}
+Comment: 0,0:27:46.35,0:27:46.35,INS2,,0,0,0,mixin line layer 1,{\1a&HFE&\blur0.85\shad4}
+Comment: 0,0:27:46.35,0:27:46.35,INS2,,0,0,0,mixin line layer 0,{\1a&HFE&\3a&HFE&\4a&H96&\4c&HFFFFFF&\bord3.6\xshad0.01\blur4}
+Comment: 0,0:27:46.35,0:27:46.35,INS2,,0,0,0,mixin line,{\fad(300,350)}
+Comment: 0,0:27:46.35,0:27:46.35,INS2,,0,0,0,,
 Comment: 0,0:27:46.35,0:27:46.35,INS2,,0,0,0,,{INS}
 Comment: 0,0:27:46.35,0:27:55.86,Default,eng,0,0,0,,Go to sleep, dear child
 Comment: 0,0:27:56.32,0:28:02.54,INS2,eng,0,0,0,kara,I take in the starlight
