@@ -1,9 +1,9 @@
-import myaa.subkt.ass.*
+import java.awt.Color
+import java.time.*
+import myaa.subkt.ass.EventLineAccessor
 import myaa.subkt.tasks.*
 import myaa.subkt.tasks.Mux.*
 import myaa.subkt.tasks.Nyaa.*
-import java.awt.Color
-import java.time.*
 
 plugins {
     id("myaa.subkt")
@@ -11,6 +11,7 @@ plugins {
 
 subs {
     readProperties("sub.properties")
+    episodes(getList("episodes"))
 
     merge {
         from(get("dialogue"))
@@ -18,18 +19,18 @@ subs {
         from(get("ED1"))
         from(get("ED2"))
 
-        from(get("IS_1"))
-        from(get("IS_2"))
+        from(get("INS1"))
+        from(get("INS2"))
 
         from(get("TS"))
 
         out(get("mergedname"))
     }
 
-    chapters {
+    /* chapters {
         from(merge.item())
         chapterMarker("chapter")
-    }
+    } */
 
 
     mux {
@@ -50,9 +51,15 @@ subs {
 			}
 		}
 
-        chapters(chapters.item()) { lang("eng") }
+        chapters(chapters.item()) {
+            lang("eng")
+        }
 
         attach(get("fonts")) {
+            includeExtensions("ttf", "otf")
+        }
+
+        attach(get("songfonts")) {
             includeExtensions("ttf", "otf")
         }
 
