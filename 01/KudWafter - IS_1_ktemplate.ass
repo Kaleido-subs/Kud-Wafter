@@ -19,6 +19,21 @@ Style: INS1,Vanilla Extract,52,&H00FFFFFF,&H000000FF,&H00C67B14,&H50C67B14,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:20:03.31,0:20:10.65,INS1,,0,0,0,template line actor eng,
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,template line actor eng,
+Comment: 1,0:20:03.31,0:20:10.65,INS1,,0,0,0,template line actor rom,
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,template line actor rom,
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,,
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,mixin line actor eng,{!ln.tag.pos(9,9)!}
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,mixin line actor rom,{!ln.tag.pos(9,9,0,54)!\fs42}
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,mixin line layer 1 actor eng,{\blur0.65}
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,mixin line layer 0 actor eng,{\blur1\shad1.6}
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,mixin line layer 1 actor rom,{\blur0.55}
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,mixin line layer 0 actor rom,{\blur0.85\shad1.25}
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,mixin line layer 1,{\1a&HFE&\3a&HFE&\4a&H00&\4c&HFFFFFF&\bord0.01\xshad0.01}
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,mixin line layer 0,{\1a&HFE&\blur0.85\bord2}
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,mixin line,{\fad(250,250)}
+Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,,
 Comment: 0,0:20:03.31,0:20:10.65,INS1,,0,0,0,,{INS}
 Comment: 0,0:20:03.31,0:20:10.65,INS1,eng,0,0,0,kara,I chase after it amidst the dazzling heat
 Comment: 0,0:20:22.45,0:20:28.33,INS1,eng,0,0,0,kara,I reach out my hand towards the blue sky
