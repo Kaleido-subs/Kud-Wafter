@@ -13,8 +13,8 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: KudWafterBD_01 (Premux).mkv
-Video File: KudWafterBD_01 (Premux).mkv
+Audio File: ../../../Encoding Projects/[Kaleido-subs]/Movies & OVAs/Kud Wafter [BD]/wraws/KudWafterBD_01 (wraw).mkv
+Video File: ../../../Encoding Projects/[Kaleido-subs]/Movies & OVAs/Kud Wafter [BD]/wraws/KudWafterBD_01 (wraw).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -3969,3 +3969,115 @@ Dialogue: 0,0:04:43.01,0:04:43.10,Sign,,0,0,0,Croak Post Sign,{\an7\blur1\bord0\
 Dialogue: 2,0:04:43.10,0:04:43.14,Sign,,0,0,0,Croak Post Sign,{\pos(1143.2,871.2)\frz5.394\fry0.92\frx3.6\fax-0.13\fnLiberation Sans\fs16\c&H1F301F&\blur0.8\clip(m 1144 860.27 l 1202.67 854.13 1202.13 875.2 1148.8 886.93)}Croak Croak Post
 Dialogue: 2,0:04:43.10,0:04:43.14,Sign,,0,0,0,Croak Post Sign,{\pos(1143.2,871.2)\frz5.394\fry0.92\frx3.6\fax-0.13\fnLiberation Sans\fs16\c&H1F301F&\blur0.8\clip(m 1144 860.27 l 1202.67 854.13 1202.13 875.2 1148.8 886.93)}Croak Croak Post
 Dialogue: 0,0:04:43.10,0:04:43.14,Sign,,0,0,0,Croak Post Sign,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1149.2,884.2)\c&H685C56&\p1\clip(m 1144 860.27 l 1202.67 854.13 1202.13 875.2 1148.8 886.93)}m -53 -20 l 43 -31 41 -8 -46 3
+Dialogue: 1,0:03:13.92,0:03:14.05,Sign,,0,0,0,Rin Note,{\pos(538.8,307)\org(539.8,307)\frz50.67\fry25.25\frx-22\fax-0.17\fnLilly\fs23\i1\c&H424245&\1a&H1E&\blur0.9\clip(m 541.14 285.14 l 559.43 309.14 542.86 321.14 b 534 317.29 526.57 313.57 518.29 310.86)}Rin
+Dialogue: 0,0:03:13.92,0:03:14.05,Sign,,0,0,0,Rin Note,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(539.8,307)\p1\c&HF2F5F7&}m -24 -6 l -2 -20 b 4 -16 13 2 22 12 5 7 6 13 1 13 -4 10 -14 7 -19 3
+Dialogue: 1,0:03:14.05,0:03:14.17,Sign,,0,0,0,Rin Note,{\pos(578.2,289.4)\frz22.45\fry354.8\frx7.93\fax-0.19\fnLilly\fs23\i1\c&H424245&\1a&H1E&\blur0.9}Rin
+Dialogue: 0,0:03:14.05,0:03:14.17,Sign,,0,0,0,Rin Note,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(580.2,291.4)\p1\c&HF0F3F5&}m -22 -16 l 6 -26 16 16 8 20 b -9 8 -5 23 -6 24 l -14 25 -21 -3
+Dialogue: 1,0:03:14.17,0:03:24.02,Sign,,0,0,0,Rin Note,{\pos(617,288.2)\frz1.665\fry350.8\frx350.8\fax-0.1\fnLilly\fs26\i1\c&H424245&\1a&H32&\blur0.85\clip(m 604 274.4 l 622.53 275.38 616.92 302.4 595.2 300.8)}Rin
+Dialogue: 1,0:03:14.17,0:03:24.02,Sign,,0,0,0,Rin Note,{\pos(617,288.2)\frz1.665\fry316.8\frx6.77\fax-0.1\fnLilly\fs26\i1\c&H424245&\1a&H32&\blur0.85\iclip(m 604 274.4 l 622.42 276 614.23 302.4 595.2 300.8)}Rin
+Dialogue: 0,0:03:14.17,0:03:24.02,Sign,,0,0,0,Rin Note,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HF2F3F4&}m 604 269 l 629 268 627 289 623 289 622 293 626 302 619 301 614 295 609 300 599 301 599 281
+Dialogue: 1,0:03:43.95,0:03:43.99,Sign,,0,0,0,Riki Note,{\pos(999,484.2)\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:43.99,0:03:44.03,Sign,,0,0,0,Riki Note,{\pos(999.18,483.91)\fscx100.38\fscy100.38\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.03,0:03:44.07,Sign,,0,0,0,Riki Note,{\pos(999.35,483.7)\fscx101.02\fscy101.02\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.07,0:03:44.12,Sign,,0,0,0,Riki Note,{\pos(999.54,483.42)\fscx101.43\fscy101.43\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.12,0:03:44.16,Sign,,0,0,0,Riki Note,{\pos(999.73,483.14)\fscx101.83\fscy101.83\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.16,0:03:44.20,Sign,,0,0,0,Riki Note,{\pos(999.91,482.9)\fscx102.37\fscy102.37\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.20,0:03:44.24,Sign,,0,0,0,Riki Note,{\pos(1000.11,482.69)\fscx103.11\fscy103.11\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.24,0:03:44.28,Sign,,0,0,0,Riki Note,{\pos(1000.29,482.43)\fscx103.63\fscy103.63\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.28,0:03:44.32,Sign,,0,0,0,Riki Note,{\pos(1000.49,482.15)\fscx104.11\fscy104.11\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.32,0:03:44.37,Sign,,0,0,0,Riki Note,{\pos(1000.68,481.92)\fscx104.77\fscy104.77\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.37,0:03:44.41,Sign,,0,0,0,Riki Note,{\pos(1000.89,481.6)\fscx105.14\fscy105.14\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.41,0:03:44.45,Sign,,0,0,0,Riki Note,{\pos(1001.08,481.34)\fscx105.72\fscy105.72\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.45,0:03:44.49,Sign,,0,0,0,Riki Note,{\pos(1001.27,481.03)\fscx106.14\fscy106.14\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.49,0:03:44.53,Sign,,0,0,0,Riki Note,{\pos(1001.48,480.75)\fscx106.78\fscy106.78\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.53,0:03:44.57,Sign,,0,0,0,Riki Note,{\pos(1001.66,480.58)\fscx107.58\fscy107.58\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.57,0:03:44.62,Sign,,0,0,0,Riki Note,{\pos(1001.87,480.17)\fscx107.88\fscy107.88\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.62,0:03:44.66,Sign,,0,0,0,Riki Note,{\pos(1002.09,479.93)\fscx108.45\fscy108.45\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.66,0:03:44.70,Sign,,0,0,0,Riki Note,{\pos(1002.29,479.62)\fscx108.93\fscy108.93\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.70,0:03:44.74,Sign,,0,0,0,Riki Note,{\pos(1002.5,479.33)\fscx109.62\fscy109.62\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.74,0:03:44.78,Sign,,0,0,0,Riki Note,{\pos(1002.71,479.06)\fscx110.29\fscy110.29\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.78,0:03:44.82,Sign,,0,0,0,Riki Note,{\pos(1002.91,478.8)\fscx110.96\fscy110.96\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.82,0:03:44.87,Sign,,0,0,0,Riki Note,{\pos(1003.15,478.46)\fscx111.45\fscy111.45\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.87,0:03:44.91,Sign,,0,0,0,Riki Note,{\pos(1003.37,478.18)\fscx112.17\fscy112.17\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.91,0:03:44.95,Sign,,0,0,0,Riki Note,{\pos(1003.6,477.85)\fscx112.73\fscy112.73\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.95,0:03:44.99,Sign,,0,0,0,Riki Note,{\pos(1003.82,477.52)\fscx113.26\fscy113.26\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:44.99,0:03:45.03,Sign,,0,0,0,Riki Note,{\pos(1004.02,477.24)\fscx114.04\fscy114.04\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:45.03,0:03:45.07,Sign,,0,0,0,Riki Note,{\pos(1004.26,476.98)\fscx114.82\fscy114.82\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:45.07,0:03:45.12,Sign,,0,0,0,Riki Note,{\pos(1004.5,476.56)\fscx115.26\fscy115.26\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:45.12,0:03:45.16,Sign,,0,0,0,Riki Note,{\pos(1004.74,476.3)\fscx116\fscy116\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:45.16,0:03:45.20,Sign,,0,0,0,Riki Note,{\pos(1004.98,475.9)\fscx116.54\fscy116.54\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:45.20,0:03:45.24,Sign,,0,0,0,Riki Note,{\pos(1005.22,475.58)\fscx117.14\fscy117.14\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:45.24,0:03:45.28,Sign,,0,0,0,Riki Note,{\pos(1005.43,475.37)\fscx118.18\fscy118.18\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:45.28,0:03:45.32,Sign,,0,0,0,Riki Note,{\pos(1005.69,475.03)\fscx118.82\fscy118.82\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:45.32,0:03:45.37,Sign,,0,0,0,Riki Note,{\pos(1005.93,474.7)\fscx119.62\fscy119.62\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 1,0:03:45.37,0:03:45.41,Sign,,0,0,0,Riki Note,{\pos(1006.16,474.37)\fscx120.41\fscy120.41\frz0.421\fry5.19\frx1.71\fax0.03\fnLilly\fs56\i1\c&H424245&\1a&H32&\blur1}Better luck \Nnext time!
+Dialogue: 0,0:03:43.95,0:03:43.99,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:43.99,0:03:44.03,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx100.38\fscy100.38\pos(-3.6,-2.12)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.03,0:03:44.07,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx101.02\fscy101.02\pos(-9.84,-5.44)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.07,0:03:44.12,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx101.43\fscy101.43\pos(-13.73,-7.7)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.12,0:03:44.16,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx101.83\fscy101.83\pos(-17.52,-9.9)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.16,0:03:44.20,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx102.37\fscy102.37\pos(-22.74,-12.77)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.20,0:03:44.24,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx103.11\fscy103.11\pos(-29.91,-16.55)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.24,0:03:44.28,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx103.63\fscy103.63\pos(-34.95,-19.34)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.28,0:03:44.32,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx104.11\fscy104.11\pos(-39.56,-21.94)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.32,0:03:44.37,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx104.77\fscy104.77\pos(-45.96,-25.37)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.37,0:03:44.41,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx105.14\fscy105.14\pos(-49.41,-27.46)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.41,0:03:44.45,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx105.72\fscy105.72\pos(-55.09,-30.57)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.45,0:03:44.49,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx106.14\fscy106.14\pos(-59.02,-32.87)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.49,0:03:44.53,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx106.78\fscy106.78\pos(-65.22,-36.26)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.53,0:03:44.57,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx107.58\fscy107.58\pos(-73.09,-40.34)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.57,0:03:44.62,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx107.88\fscy107.88\pos(-75.81,-42.16)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.62,0:03:44.66,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx108.45\fscy108.45\pos(-81.33,-45.19)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.66,0:03:44.70,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx108.93\fscy108.93\pos(-85.96,-47.84)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.70,0:03:44.74,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx109.62\fscy109.62\pos(-92.58,-51.44)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.74,0:03:44.78,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx110.29\fscy110.29\pos(-99.08,-54.96)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.78,0:03:44.82,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx110.96\fscy110.96\pos(-105.59,-58.47)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.82,0:03:44.87,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx111.45\fscy111.45\pos(-110.25,-61.19)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.87,0:03:44.91,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx112.17\fscy112.17\pos(-117.2,-64.95)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.91,0:03:44.95,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx112.73\fscy112.73\pos(-122.55,-67.98)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.95,0:03:44.99,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx113.26\fscy113.26\pos(-127.66,-70.89)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:44.99,0:03:45.03,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx114.04\fscy114.04\pos(-135.19,-74.92)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:45.03,0:03:45.07,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx114.82\fscy114.82\pos(-142.8,-78.98)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:45.07,0:03:45.12,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx115.26\fscy115.26\pos(-146.91,-81.5)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:45.12,0:03:45.16,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx116\fscy116\pos(-154.06,-85.35)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:45.16,0:03:45.20,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx116.54\fscy116.54\pos(-159.27,-88.39)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:45.20,0:03:45.24,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx117.14\fscy117.14\pos(-164.97,-91.59)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:45.24,0:03:45.28,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx118.18\fscy118.18\pos(-175.21,-96.87)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:45.28,0:03:45.32,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx118.82\fscy118.82\pos(-181.37,-100.32)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:45.32,0:03:45.37,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx119.62\fscy119.62\pos(-189.05,-104.49)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:45.37,0:03:45.41,Sign,,0,0,0,Riki Note,{\an7\blur3\bord0\shad0\fscx120.41\fscy120.41\pos(-196.78,-108.67)\p1\c&HF6FAFC&}m 879 402 l 1109 406 1119 466 1088 535 883 521 890 488
+Dialogue: 0,0:03:43.95,0:03:43.99,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:43.99,0:03:44.03,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx100.38\fscy100.38\pos(-3.6,-2.12)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.03,0:03:44.07,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx101.02\fscy101.02\pos(-9.84,-5.44)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.07,0:03:44.12,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx101.43\fscy101.43\pos(-13.73,-7.7)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.12,0:03:44.16,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx101.83\fscy101.83\pos(-17.52,-9.9)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.16,0:03:44.20,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx102.37\fscy102.37\pos(-22.74,-12.77)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.20,0:03:44.24,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx103.11\fscy103.11\pos(-29.91,-16.55)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.24,0:03:44.28,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx103.63\fscy103.63\pos(-34.95,-19.34)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.28,0:03:44.32,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx104.11\fscy104.11\pos(-39.56,-21.94)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.32,0:03:44.37,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx104.77\fscy104.77\pos(-45.96,-25.37)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.37,0:03:44.41,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx105.14\fscy105.14\pos(-49.41,-27.46)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.41,0:03:44.45,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx105.72\fscy105.72\pos(-55.09,-30.57)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.45,0:03:44.49,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx106.14\fscy106.14\pos(-59.02,-32.87)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.49,0:03:44.53,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx106.78\fscy106.78\pos(-65.22,-36.26)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.53,0:03:44.57,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx107.58\fscy107.58\pos(-73.09,-40.34)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.57,0:03:44.62,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx107.88\fscy107.88\pos(-75.81,-42.16)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.62,0:03:44.66,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx108.45\fscy108.45\pos(-81.33,-45.19)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.66,0:03:44.70,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx108.93\fscy108.93\pos(-85.96,-47.84)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.70,0:03:44.74,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx109.62\fscy109.62\pos(-92.58,-51.44)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.74,0:03:44.78,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx110.29\fscy110.29\pos(-99.08,-54.96)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.78,0:03:44.82,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx110.96\fscy110.96\pos(-105.59,-58.47)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.82,0:03:44.87,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx111.45\fscy111.45\pos(-110.25,-61.19)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.87,0:03:44.91,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx112.17\fscy112.17\pos(-117.2,-64.95)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.91,0:03:44.95,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx112.73\fscy112.73\pos(-122.55,-67.98)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.95,0:03:44.99,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx113.26\fscy113.26\pos(-127.66,-70.89)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:44.99,0:03:45.03,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx114.04\fscy114.04\pos(-135.19,-74.92)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:45.03,0:03:45.07,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx114.82\fscy114.82\pos(-142.8,-78.98)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:45.07,0:03:45.12,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx115.26\fscy115.26\pos(-146.91,-81.5)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:45.12,0:03:45.16,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx116\fscy116\pos(-154.06,-85.35)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:45.16,0:03:45.20,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx116.54\fscy116.54\pos(-159.27,-88.39)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:45.20,0:03:45.24,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx117.14\fscy117.14\pos(-164.97,-91.59)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:45.24,0:03:45.28,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx118.18\fscy118.18\pos(-175.21,-96.87)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:45.28,0:03:45.32,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx118.82\fscy118.82\pos(-181.37,-100.32)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:45.32,0:03:45.37,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx119.62\fscy119.62\pos(-189.05,-104.49)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 0,0:03:45.37,0:03:45.41,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx120.41\fscy120.41\pos(-196.78,-108.67)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
