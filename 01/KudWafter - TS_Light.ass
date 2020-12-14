@@ -4081,3 +4081,7 @@ Dialogue: 0,0:03:45.24,0:03:45.28,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\
 Dialogue: 0,0:03:45.28,0:03:45.32,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx118.82\fscy118.82\pos(-181.37,-100.32)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
 Dialogue: 0,0:03:45.32,0:03:45.37,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx119.62\fscy119.62\pos(-189.05,-104.49)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
 Dialogue: 0,0:03:45.37,0:03:45.41,Sign,,0,0,0,Riki Note,{\an7\blur1\bord0\shad0\fscx120.41\fscy120.41\pos(-196.78,-108.67)\p1\c&H4E4A4A&\1a&H50&}m 864 489 b 879 489 903 490 918 491 l 918 489 b 901 488 877 487 865 487
+Dialogue: 1,0:13:33.00,0:13:34.84,Sign,,0,0,0,Baseball Sign,{\pos(651.071,241.267)\fnbrush-tipTerrence trial\fs25\c&H090B0D&\1a&H3C&\blur0.85}Baseball
+Dialogue: 0,0:13:33.00,0:13:34.84,Sign,,0,0,0,Baseball Sign,{\pos(651.071,241.267)\fnbrush-tipTerrence trial\fs25\c&H090B0D&\1a&H3C&\blur0.85}Baseball
+Dialogue: 1,0:13:33.00,0:13:34.84,Sign,,0,0,0,Baseball Sign,{\pos(651.071,266.267)\fnbrush-tipTerrence trial\fs25\c&H090B0D&\1a&H3C&\blur0.85}Team
+Dialogue: 0,0:13:33.00,0:13:34.84,Sign,,0,0,0,Baseball Sign,{\pos(651.071,266.267)\fnbrush-tipTerrence trial\fs25\c&H090B0D&\1a&H3C&\blur0.85}Team
