@@ -35,7 +35,7 @@ subs {
 
 
     mux {
-        title(get("title"))
+        title(get("muxtitle"))
 
         from(get("premux")) {
             includeChapters(false)
