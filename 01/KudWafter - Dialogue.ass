@@ -80,7 +80,7 @@ Dialogue: 10,0:03:34.10,0:03:37.02,Default,,0,0,0,,Hey, what does "better luck n
 Dialogue: 10,0:03:37.02,0:03:39.20,Default,,0,0,0,,Oh, Naoe, you drew that one, huh?
 Dialogue: 10,0:03:39.20,0:03:41.80,Default,,0,0,0,,{\q2}We don't actually have enough \Nrooms free in the girls' dorm.
 Dialogue: 10,0:03:41.80,0:03:42.88,Default,,0,0,0,,There you have it.
-Dialogue: 10,0:03:42.88,0:03:45.41,Default,QC,0,0,0,,You'll be staying in the home economics club room.{maybe "home ec. instead of home economics, also maybe consider "cooking club"? I dont think home ec clubs are a thing, that's mainly a subject.}
+Dialogue: 10,0:03:42.88,0:03:45.41,Default,,0,0,0,,You'll be staying in the home ec. room.
 Dialogue: 10,0:03:53.08,0:03:54.58,Default,,0,0,0,,Riki!
 Dialogue: 10,0:04:00.24,0:04:04.84,Default,,0,0,0,,Are you really going to stay in the clubroom?
 Dialogue: 10,0:04:04.84,0:04:08.02,Default,,0,0,0,,Yeah, I drew the short straw, so it seems that way.
@@ -111,7 +111,7 @@ Comment: 10,0:05:43.15,0:05:44.03,Default,,0,0,0,,Eek!
 Dialogue: 10,0:05:45.24,0:05:47.57,Default,,0,0,0,,I-I'm trying to change!
 Dialogue: 10,0:05:47.57,0:05:49.58,Default,,0,0,0,,Could you please come back later?
 Dialogue: 10,0:05:49.58,0:05:54.45,Default,,0,0,0,,{\q2}There are guys staying in the dorms now, \Nso think about the way you dress.
-Dialogue: 10,0:05:54.45,0:05:56.87,Default,,0,0,0,,{\i1\q2}There's a guy in this room right now, \Nnot just the dorms! {## ED suggestion: "Forget the dorms, there's a guy in this room *right now*!"}
+Dialogue: 10,0:05:54.45,0:05:56.87,Default,,0,0,0,,{\i1\q2}Forget the dorms, there's a guy \Nin this room right now!
 Dialogue: 10,0:05:56.87,0:05:59.92,Default,,0,0,0,,I-It's okay! Riki isn't in the room right now!
 Dialogue: 10,0:06:00.98,0:06:03.60,Default,,0,0,0,,Of course he isn't. Where did that come from?
 Dialogue: 10,0:06:03.60,0:06:06.98,Default,,0,0,0,,And what if he were here?
@@ -310,7 +310,7 @@ Dialogue: 10,0:18:00.14,0:18:03.88,Default,,0,0,0,,{\q2}Well then, here's the Na
 Dialogue: 10,0:18:03.88,0:18:05.22,Default,,0,0,0,,Why me?
 Dialogue: 10,0:18:05.22,0:18:08.00,Default,,0,0,0,,Inohara, if you would, please.
 Dialogue: 10,0:18:08.00,0:18:09.18,Default,,0,0,0,,On it!
-Dialogue: 10,0:18:10.32,0:18:14.78,Default,QC,0,0,0,,Once it is launched, the photos of Riki and Kyousuke \Nwill turn into ones where they're hugging each other.{NN: I want to make this line shorter and more fluid.}{## How's "Once launched, the pictures of Riki and Kyousuke will hold each other in a sweet embrace"? Or something even more memey? :^)}
+Dialogue: 10,0:18:10.32,0:18:14.78,Default,,0,0,0,,{\q2}Once launched, the pictures of Riki and Kyousuke \Nwill hold each other in a sweet embrace.
 Dialogue: 10,0:18:14.78,0:18:15.92,Default,,0,0,0,,Huh?!
 Dialogue: 10,0:18:14.78,0:18:15.92,Alt,,0,0,0,,Wafu?!
 Dialogue: 10,0:18:15.92,0:18:17.11,Default,,0,0,0,,I shopped it.
@@ -360,17 +360,17 @@ Dialogue: 10,0:22:15.86,0:22:17.98,Default,,0,0,0,,Mom.
 Dialogue: 10,0:22:22.22,0:22:26.00,Default,,0,0,0,,Riki, could you listen to me for a bit?
 Dialogue: 10,0:22:28.36,0:22:31.45,Default,,0,0,0,,My mom is a really amazing person.
 Dialogue: 10,0:22:31.84,0:22:36.91,Default,,0,0,0,,I admired her, and she was my goal.
-Dialogue: 10,0:22:41.02,0:22:45.98,Default,ED,0,0,0,,{\i1\q2}My mom has been a kosmonavt \Nfor as long as I can remember, {## ED She's presumably telling Riki this. Is it a good idea to keep these italicised?}
-Dialogue: 10,0:22:45.98,0:22:50.64,Default,,0,0,0,,{\i1\q2}and she has always cheerfully told me \Nthe importance of space exploration.
-Dialogue: 10,0:22:52.66,0:22:54.46,Default,,0,0,0,,{\i1}The reason I wanted to go to space...
-Dialogue: 10,0:22:55.16,0:23:00.69,Default,,0,0,0,,{\i1\fad(0,478)\q2}The reason I wanted to become a kosmonavt was \Nbecause I wanted to see the same things my mom did.
-Dialogue: 10,0:23:03.14,0:23:08.76,Default,,0,0,0,,{\i1\q2}I wanted to see with my own eyes \Nthat the things she loved were fun.
-Dialogue: 10,0:23:08.76,0:23:10.98,Default,,0,0,0,,{\i1}That's why I set my heart on this dream.
-Dialogue: 10,0:23:12.24,0:23:17.84,Default,,0,0,0,,{\i1}But that was a really difficult road to follow.
-Dialogue: 10,0:23:17.84,0:23:22.64,Default,,0,0,0,,{\i1\q2}The further I went, the further away \Nit felt like my mom was.
-Dialogue: 10,0:23:30.06,0:23:34.54,Default,,0,0,0,,{\i1}Before I knew it, I had stopped {## ED dead?}in my tracks.
-Dialogue: 10,0:23:34.54,0:23:38.16,Default,,0,0,0,,{\i1}I ran away from my mom.
-Dialogue: 10,0:23:38.16,0:23:43.30,Default,,0,0,0,,{\i1\q2}I didn't have the confidence to live up to\N her expectations and ran away from Tevua.
+Dialogue: 10,0:22:41.02,0:22:45.98,Default,,0,0,0,,{\q2}My mom has been a kosmonavt \Nfor as long as I can remember,
+Dialogue: 10,0:22:45.98,0:22:50.64,Default,,0,0,0,,{\q2}and she has always cheerfully told me \Nthe importance of space exploration.
+Dialogue: 10,0:22:52.66,0:22:54.46,Default,,0,0,0,,The reason I wanted to go to space...
+Dialogue: 10,0:22:55.16,0:23:00.69,Default,,0,0,0,,{\fad(0,478)\q2}The reason I wanted to become a kosmonavt was \Nbecause I wanted to see the same things my mom did.
+Dialogue: 10,0:23:03.14,0:23:08.76,Default,,0,0,0,,{\q2}I wanted to see with my own eyes \Nthat the things she loved were fun.
+Dialogue: 10,0:23:08.76,0:23:10.98,Default,,0,0,0,,That's why I set my heart on this dream.
+Dialogue: 10,0:23:12.24,0:23:17.84,Default,,0,0,0,,But that was a really difficult road to follow.
+Dialogue: 10,0:23:17.84,0:23:22.64,Default,,0,0,0,,{\q2}The further I went, the further away \Nit felt like my mom was.
+Dialogue: 10,0:23:30.06,0:23:34.54,Default,,0,0,0,,Before I knew it, I had stopped dead in my tracks.
+Dialogue: 10,0:23:34.54,0:23:38.16,Default,,0,0,0,,I ran away from my mom.
+Dialogue: 10,0:23:38.16,0:23:43.30,Default,,0,0,0,,{\q2}I didn't have the confidence to live up to \Nher expectations and ran away from Tevua.
 Dialogue: 10,0:23:44.62,0:23:47.06,Default,,0,0,0,,It was just that, a dream.
 Dialogue: 10,0:23:48.18,0:23:53.37,Default,,0,0,0,,{\q2}I wanted to keep at it and become a kosmonavt, \Nthinking that would somehow justify it.
 Dialogue: 10,0:23:55.92,0:24:01.83,Default,,0,0,0,,{\q2}I think being able to talk to someone about your \Ndreams is pretty impressive on its own.
@@ -381,7 +381,7 @@ Dialogue: 10,0:24:21.74,0:24:23.04,Default,,0,0,0,,So, um...
 Dialogue: 10,0:24:24.52,0:24:28.12,Default,,0,0,0,,Is it okay if I cast a good-luck charm?
 Dialogue: 10,0:24:28.12,0:24:29.44,Default,,0,0,0,,A charm?
 Dialogue: 10,0:24:30.66,0:24:34.66,Default,,0,0,0,,{\q2}It's a charm for tying people who \Ntreasure each other together.
-Dialogue: 10,0:24:34.98,0:24:41.92,Default,QC,0,0,0,,We draw our coat of arms on each other, \Nand they bring us closer together.{Orig. We draw our coat of arms on each other, and they turn into stronger bonds and oaths}{Luv: We mark each other with our symbols, and they deepen our connection.}{NN: This line is weird to work with and I haven't been able to come up with something I'm 100% happy with, so here's all the alternatives and what they've led me to.}
+Dialogue: 10,0:24:34.98,0:24:41.92,Default,,0,0,0,,{\q2}We paint our emblems on each other, \Nand they strengthen the bond between us.
 Dialogue: 10,0:24:46.71,0:24:48.02,Default,,0,0,0,,Kud?!
 Dialogue: 10,0:24:50.17,0:24:57.01,Default,,0,0,0,,{\q2}Th-This is very embarrassing, \Nbut also very important and serious.
 Dialogue: 10,0:25:01.38,0:25:03.23,Default,,0,0,0,,Will you marry me?
@@ -393,7 +393,7 @@ Dialogue: 10,0:25:20.12,0:25:22.04,Default,,0,0,0,,Let's do it.
 Dialogue: 10,0:25:32.40,0:25:33.42,Default,,0,0,0,,Wafu!
 Dialogue: 10,0:25:34.24,0:25:36.26,Default,,0,0,0,,Please keep still.
 Dialogue: 10,0:25:36.26,0:25:37.46,Default,,0,0,0,,Sorry.
-Dialogue: 10,0:25:43.04,0:25:46.58,Default,QC,0,0,0,,{\q2}My coat of arms is filled with \Ncurvy waves and mountains.{NN: Marked to make sure it's consistent with whatever we go decide on for the other line.}
+Dialogue: 10,0:25:43.04,0:25:46.58,Default,,0,0,0,,My emblem is filled with curvy waves and mountains.
 Dialogue: 10,0:25:46.58,0:25:50.02,Default,,0,0,0,,My mom told me they were gears.
 Dialogue: 10,0:25:50.84,0:25:52.22,Default,,0,0,0,,Gears?
 Dialogue: 10,0:25:53.16,0:25:56.78,Default,,0,0,0,,I want to be a good set of gears to you.
@@ -405,9 +405,7 @@ Dialogue: 10,0:26:17.28,0:26:18.89,Default,,0,0,0,,This is embarrassing.
 Dialogue: 10,0:26:19.20,0:26:21.10,Default,,0,0,0,,It tickles.
 Dialogue: 10,0:26:22.94,0:26:28.48,Default,,0,0,0,,What kind of pattern are you drawing on me?
 Dialogue: 10,0:26:29.12,0:26:31.38,Default,,0,0,0,,Trees, I guess?
-Comment: 10,0:26:31.38,0:26:36.95,Default,,0,0,0,,They'll always be there around you, \Nprotecting you from whatever comes.
-Dialogue: 10,0:26:31.38,0:26:33.32,Default,QC,0,0,0,,From the "Ki" in my name, like me,{Is it possible to fix/loc this properly? The "Ri" sound from Riki's name does actually appear in "Tree" but that feels maybe a bit awkward. Damn you Riki and your short ass name.}
-Dialogue: 10,0:26:33.32,0:26:36.95,Default,QC,0,0,0,,{\q2}they'll always be there around you, \Nprotecting you from whatever comes.
+Dialogue: 10,0:26:31.38,0:26:36.95,Default,,0,0,0,,{\q2}That way I'll always be around you, \Nprotecting you from whatever comes.
 Dialogue: 10,0:26:50.68,0:26:52.14,Default,,0,0,0,,Riki.
 Dialogue: 10,0:27:03.70,0:27:07.78,Default,,0,0,0,,{\q2}As long as you're with me, \Nthere's nothing I can't do.
 Dialogue: 10,0:27:10.08,0:27:13.56,Default,,0,0,0,,{\i1}My place is by Riki's side.
@@ -433,7 +431,7 @@ Dialogue: 10,0:30:52.58,0:30:54.46,Default,,0,0,0,,Of course! I'd be happy to!
 Dialogue: 10,0:30:54.46,0:30:59.58,Default,,0,0,0,,{\q2}I'll come get you once I'm done, \Nso just hang around in my room until then.
 Dialogue: 10,0:31:20.50,0:31:23.50,Default,,0,0,0,,I'm making miso soup for Riki.
 Dialogue: 10,0:31:23.50,0:31:25.61,Default,,0,0,0,,It's like we're newlyweds!
-Dialogue: 10,0:31:41.14,0:31:42.50,Default,ED,0,0,0,,Are you gonna keep running away? {## ED Ideally I'd like to make it even shorter for CPS purposes (@19 atm with a hard scenechange)}
+Dialogue: 10,0:31:41.14,0:31:42.50,Default,,0,0,0,,You gonna keep running away?
 Dialogue: 10,0:31:47.72,0:31:51.12,Default,,0,0,0,,Himuro, you're a strong person,
 Dialogue: 10,0:31:51.12,0:31:53.30,Default,,0,0,0,,so there's no way you'll understand how I feel.
 Dialogue: 10,0:31:53.30,0:31:56.28,Default,,0,0,0,,I'm trying to be strong, that's all.
@@ -532,7 +530,7 @@ Dialogue: 10,0:38:27.16,0:38:31.02,Default,,0,0,0,,{\q2}All you've been doing is
 Dialogue: 10,0:38:32.16,0:38:34.37,Default,,0,0,0,,4!
 Dialogue: 10,0:38:34.94,0:38:38.58,Default,,0,0,0,,{\q2}You, the Kudryavka who's bound \Nby chains and cannot fly.
 Dialogue: 10,0:38:38.58,0:38:42.60,Default,,0,0,0,,I want to get stronger! I want to fly!
-Dialogue: 10,0:38:44.48,0:38:47.12,Default,,0,0,0,,If you're going to do it, stick it out to the very end.
+Dialogue: 10,0:38:44.48,0:38:47.12,Default,,0,0,0,,{\q2}If you're going to do it, \Nstick it out to the very end.
 Dialogue: 10,0:38:47.12,0:38:50.38,Default,,0,0,0,,{\q2}Don't just have all the fun yourself. \NLet me join in, too.
 Dialogue: 10,0:38:52.10,0:38:54.90,Default,,0,0,0,,Ryachka, believe in yourself.
 Dialogue: 10,0:38:56.86,0:38:58.30,Default,,0,0,0,,Himuro.
