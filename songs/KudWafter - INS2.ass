@@ -32,7 +32,7 @@ Comment: 0,0:28:07.17,0:28:13.76,INS2,eng,0,0,0,kara,The distant light of ages p
 Comment: 0,0:28:13.76,0:28:23.77,INS2,eng,0,0,0,kara,Penetrates a lonely silence that can't be put into words
 Comment: 0,0:28:24.10,0:28:30.23,INS2,eng,0,0,0,kara,Can it be far off? Can it be far off?
 Comment: 0,0:28:32.15,0:28:41.49,INS2,eng,0,0,0,kara,Go to sleep, dear child
-Comment: 0,0:28:41.82,0:28:47.91,INS2,eng,0,0,0,kara,You spin around around the violet evening sky
+Comment: 0,0:28:41.82,0:28:47.91,INS2,eng,0,0,0,kara,You spin around the violet evening sky
 Comment: 0,0:28:48.04,0:28:52.29,INS2,eng,0,0,0,kara,As I wish upon you
 Comment: 0,0:28:52.42,0:28:58.97,INS2,eng,0,0,0,kara,The intimate light of a moonlit night
 Comment: 0,0:28:59.09,0:29:09.10,INS2,eng,0,0,0,kara,Resounds through the indescribably pure darkness
@@ -69,9 +69,9 @@ Dialogue: 0,0:28:24.10,0:28:30.23,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&H
 Dialogue: 2,0:28:32.15,0:28:41.49,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\3a&HFE&\4a&H00&\4c&HFFFBFE&\bord0.01\xshad0.01\blur0.65\fad(300,350)}Go to sleep, dear child
 Dialogue: 1,0:28:32.15,0:28:41.49,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\blur0.85\shad4\fad(300,350)}Go to sleep, dear child
 Dialogue: 0,0:28:32.15,0:28:41.49,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\3a&HFE&\4a&H96&\4c&HFFFFFF&\bord3.6\xshad0.01\blur4\fad(300,350)}Go to sleep, dear child
-Dialogue: 2,0:28:41.82,0:28:47.91,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\3a&HFE&\4a&H00&\4c&HFFFBFE&\bord0.01\xshad0.01\blur0.65\fad(300,350)}You spin around around the violet evening sky
-Dialogue: 1,0:28:41.82,0:28:47.91,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\blur0.85\shad4\fad(300,350)}You spin around around the violet evening sky
-Dialogue: 0,0:28:41.82,0:28:47.91,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\3a&HFE&\4a&H96&\4c&HFFFFFF&\bord3.6\xshad0.01\blur4\fad(300,350)}You spin around around the violet evening sky
+Dialogue: 2,0:28:41.82,0:28:47.91,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\3a&HFE&\4a&H00&\4c&HFFFBFE&\bord0.01\xshad0.01\blur0.65\fad(300,350)}You spin around the violet evening sky
+Dialogue: 1,0:28:41.82,0:28:47.91,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\blur0.85\shad4\fad(300,350)}You spin around the violet evening sky
+Dialogue: 0,0:28:41.82,0:28:47.91,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\3a&HFE&\4a&H96&\4c&HFFFFFF&\bord3.6\xshad0.01\blur4\fad(300,350)}You spin around the violet evening sky
 Dialogue: 2,0:28:48.04,0:28:52.29,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\3a&HFE&\4a&H00&\4c&HFFFBFE&\bord0.01\xshad0.01\blur0.65\fad(300,350)}As I wish upon you
 Dialogue: 1,0:28:48.04,0:28:52.29,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\blur0.85\shad4\fad(300,350)}As I wish upon you
 Dialogue: 0,0:28:48.04,0:28:52.29,INS2,eng,0,0,0,fx,{\an2\pos(960.00,98.00)\1a&HFE&\3a&HFE&\4a&H96&\4c&HFFFFFF&\bord3.6\xshad0.01\blur4\fad(300,350)}As I wish upon you
